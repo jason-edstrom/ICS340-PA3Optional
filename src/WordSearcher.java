@@ -1,4 +1,5 @@
 import java.awt.Color;
+import java.io.Serializable;
 import java.util.ArrayList;
 
 /**
@@ -37,6 +38,7 @@ public class WordSearcher
 	private int wordsSet = 0;
 	private int wordsSetAttempts = 0;
 	private boolean traceProgress = false;
+    private boolean badWord = false;
 
 	/**
 	 * Default constructor (call the overloaded constructor with a default word list)
@@ -119,8 +121,10 @@ public class WordSearcher
 				if(wordsSetAttempts > allowedPlacementAttempts)
 				{
 					//This is the case where we have exhausted the practical number of attempts to place a word in the puzzle.
-					System.out.println("Could not find a suitable location in the puzzle for " + wordList.get(wordsSet) + ": " + wordsSetAttempts + "\nTry a larger grid.");
-					System.exit(0);
+					System.out.println("Could not find a suitable location in the puzzle for " + wordList.get(wordsSet) + ": " + wordsSetAttempts+ "\n Redoing puzzle"); /*+ "\nTry a larger grid."); */
+                    badWord = true;
+                    return;
+					//System.exit(0);
 				}
 			}
 		}
@@ -508,7 +512,7 @@ public class WordSearcher
 			{  
 				for(int j = 0; j < grid_width; j++)
 				{  
-					answer += puzzle[i][j] + ",";//SPACER;
+					answer += puzzle[i][j] + " , ";//SPACER;
 				}  
 				answer += NEW_LINE;
 			} 
@@ -518,7 +522,7 @@ public class WordSearcher
 			{  
 				for(int j = 0; j < grid_width; j++)
 				{  
-					answer += solution[i][j] + ",";//SPACER;
+					answer += solution[i][j] + " , ";//SPACER;
 				}  
 				answer += NEW_LINE;
 			}
@@ -559,6 +563,10 @@ public class WordSearcher
 	 * Get the headers for the jTable
 	 * @return
 	 */
+
+    public boolean getBadWord(){
+        return badWord;
+    }
 	public String[] getHeaders()
 	{
 		headers = new String[grid_width];

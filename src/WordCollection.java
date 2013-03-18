@@ -17,7 +17,8 @@ public class WordCollection
 	/**
 	 * An array list to store the words
 	 */
-	private ArrayList<Word> words;
+	 private ArrayList<Word> words;
+
 	/**
 	 * A hash-map to keep track of uniqueness and indices
 	 */
@@ -83,9 +84,22 @@ public class WordCollection
 	}
 	/**
 	 * Adds a word to the collection 
-	 * @param a_line is a single line of text with 16 values separated by 15 commas with values thirteen and fourteen being space delimited lists
+	 * @param //a_line is a single line of text with 16 values separated by 15 commas with values thirteen and fourteen being space delimited lists
 	 * @throws WordAdditionException is thrown if the file is empty, a line has other than 15 commas, or the file contains duplicate items
 	 */
+    // Added getWordCollection and setWordCollection for comparison and removal
+
+    public ArrayList<Word> getWordCollection(){
+        return words;
+    }
+    public void removeWord (Word word){
+        words.remove(word);
+    }
+
+    public void addWordDirect (Word word){
+        words.add(word);
+    }
+
 	public void addWord(String a_line) throws WordAdditionException
 	{
 		if(a_line.equals(""))
@@ -341,6 +355,7 @@ public class WordCollection
 		//out.println(some_number);
 		if (words.size() < some_number)
 		{
+
 			throw new IllegalArgumentException("Not enough words to complete the puzzle.");
 		}
 		else if( (desired_theme != null) && !(desired_theme.equals("")) && !(desired_theme.equals("NONE")) && !(desired_theme.equals("unknown")) )

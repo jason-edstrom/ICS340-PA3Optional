@@ -66,7 +66,9 @@ public class WordSearcherCollection {
 
 
         do{
-
+            if(themedWords.getWordCollection().size() < 10){
+                hasEnough = false;
+            }else{
             uniqueWords = themedWords.getSomeUniqueRandomWords(number_of_words, minimum_word_length, theme);
 
             //themeCounter ++;
@@ -90,6 +92,7 @@ public class WordSearcherCollection {
 
             if(themedWords.getWordCollection().size() < 10){
                 hasEnough = false;
+            }
             }
             //Do until the number is under a full puzzle
         } while (hasEnough);

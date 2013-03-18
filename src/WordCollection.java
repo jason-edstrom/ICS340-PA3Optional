@@ -356,7 +356,7 @@ public class WordCollection
 		if (words.size() < some_number)
 		{
 
-			throw new IllegalArgumentException("Not enough words to complete the puzzle.");
+			//throw new IllegalArgumentException("Not enough words to complete the puzzle.");   //Normal Exception
 		}
 		else if( (desired_theme != null) && !(desired_theme.equals("")) && !(desired_theme.equals("NONE")) && !(desired_theme.equals("unknown")) )
 		//A Theme has been selected.

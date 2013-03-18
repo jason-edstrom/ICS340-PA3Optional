@@ -8,6 +8,6 @@
 public class WSCTester {
 
     public static void main (String args[]){
-        WordSearcherCollection WSCtest = new WordSearcherCollection("words.txt", "Theme65");
+        WordSearcherCollection WSCtest = new WordSearcherCollection("words.txt", "FILE1B");
     }
 }

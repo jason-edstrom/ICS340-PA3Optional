@@ -1,0 +1,288 @@
+[ 1 ]  No Theme: puzzle 0 
+
+E_inE                     E_in_L                    L_in_L                    L_in_E                    
+------------------------------------------------------------------------------------------------------------------
+Rocket                    Aaberg                    Aaberg                    Aaberg                    
+Meteor                    Aaberg                    Aaberg                    Aaberg                    
+Treadmill                 Aaberg                    Aaberg                    Aaberg                    
+Chess                     Aaberg                    Aaberg                    Aaberg                    
+Eyes                      Aaberg                    Aaberg                    Aaberg                    
+Family                    Aaberg                    Aaberg                    Aaberg                    
+Dung                      Aaberg                    Aaberg                    Aaberg                    
+Coffee                    Aaberg                    Aaberg                    Aaberg                    
+Thermometer               Aaberg                    Aaberg                    Aaberg                    
+Carrot                    Aaberg                    Aaberg                    Aaberg                    
+------------------------------------------------------------------------------------------------------------------
+
+No Puzzle to solve.
+
+[ 2 ]  No Theme: puzzle 0 
+
+E_inE                     E_in_L                    L_in_L                    L_in_E                    
+------------------------------------------------------------------------------------------------------------------
+Hammer                    Aaberg                    Aaberg                    Aaberg                    
+Shower                    Aaberg                    Aaberg                    Aaberg                    
+Record                    Aaberg                    Aaberg                    Aaberg                    
+Army                      Aaberg                    Aaberg                    Aaberg                    
+Cave                      Aaberg                    Aaberg                    Aaberg                    
+Stomach                   Aaberg                    Aaberg                    Aaberg                    
+Skeleton                  Aaberg                    Aaberg                    Aaberg                    
+Rifle                     Aaberg                    Aaberg                    Aaberg                    
+Knife                     Aaberg                    Aaberg                    Aaberg                    
+Airforce                  Aaberg                    Aaberg                    Aaberg                    
+------------------------------------------------------------------------------------------------------------------
+
+[GAME BOARD]
+Y , N , O , T , E , L , E , K , S , R , 
+H , M , J , O , F , W , E , A , T , H , 
+A , V , R , C , E , W , I , V , V , C , 
+M , J , I , A , A , R , I , D , J , A , 
+M , T , N , D , F , V , R , Y , D , M , 
+E , K , E , O , U , O , E , K , M , O , 
+R , N , R , E , C , C , W , Y , Q , T , 
+P , C , V , E , R , I , F , L , E , S , 
+E , Q , R , R , E , W , O , H , S , Z , 
+E , F , I , N , K , E , F , T , L , N , 
+
+
+[SOLUTION BOARD]
+Y* , N* , O* , T* , E* , L* , E* , K* , S* , R , 
+H* , M* , J , O , F , W , E , A* , T , H* , 
+A* , V , R* , C* , E , W , I* , V , V , C* , 
+M* , J , I , A* , A* , R* , I , D* , J , A* , 
+M* , T , N , D , F* , V* , R* , Y , D , M* , 
+E* , K , E , O* , U , O* , E* , K , M , O* , 
+R* , N , R* , E , C* , C , W , Y , Q , T* , 
+P , C* , V , E* , R* , I* , F* , L* , E* , S* , 
+E* , Q , R* , R* , E* , W* , O* , H* , S* , Z , 
+E* , F* , I* , N* , K* , E , F , T , L , N , 
+
+
+[ 3 ]  No Theme: puzzle 0 
+
+E_inE                     E_in_L                    L_in_L                    L_in_E                    
+------------------------------------------------------------------------------------------------------------------
+Passport                  Aaberg                    Aaberg                    Aaberg                    
+Tunnel                    Aaberg                    Aaberg                    Aaberg                    
+Toilet                    Aaberg                    Aaberg                    Aaberg                    
+Highway                   Aaberg                    Aaberg                    Aaberg                    
+Floodlight                Aaberg                    Aaberg                    Aaberg                    
+Pebble                    Aaberg                    Aaberg                    Aaberg                    
+Salt                      Aaberg                    Aaberg                    Aaberg                    
+Bridge                    Aaberg                    Aaberg                    Aaberg                    
+Adult                     Aaberg                    Aaberg                    Aaberg                    
+Maze                      Aaberg                    Aaberg                    Aaberg                    
+------------------------------------------------------------------------------------------------------------------
+
+[GAME BOARD]
+P , S , A , L , T , C , H , L , J , E , 
+G , L , U , T , A , T , H , E , P , G , 
+H , Z , O , D , E , E , B , N , Y , D , 
+N , G , U , L , Z , B , Z , N , F , I , 
+E , L , I , A , Z , H , U , U , M , R , 
+T , O , M , L , L , X , Y , T , V , B , 
+T , E , T , R , O , P , S , S , A , P , 
+T , H , G , I , L , D , O , O , L , F , 
+H , I , G , H , W , A , Y , U , W , O , 
+E , X , X , E , L , B , B , E , P , S , 
+
+
+[SOLUTION BOARD]
+P , S* , A* , L* , T* , C , H , L* , J , E* , 
+G , L , U , T , A* , T* , H , E* , P , G* , 
+H , Z , O , D* , E* , E* , B , N* , Y , D* , 
+N , G , U* , L* , Z* , B , Z , N* , F , I* , 
+E , L* , I* , A* , Z , H , U , U* , M , R* , 
+T* , O* , M* , L , L , X , Y , T* , V , B* , 
+T* , E , T* , R* , O* , P* , S* , S* , A* , P* , 
+T* , H* , G* , I* , L* , D* , O* , O* , L* , F* , 
+H* , I* , G* , H* , W* , A* , Y* , U , W , O , 
+E , X , X , E* , L* , B* , B* , E* , P* , S , 
+
+
+[ 4 ]  No Theme: puzzle 0 * 
+
+E_inE                     E_in_L                    L_in_L                    L_in_E                    
+------------------------------------------------------------------------------------------------------------------
+Pool                      Aaberg                    Aaberg                    Aaberg                    
+Star                      Aaberg                    Aaberg                    Aaberg                    
+Radar                     Aaberg                    Aaberg                    Aaberg                    
+Church                    Aaberg                    Aaberg                    Aaberg                    
+Guitar                    Aaberg                    Aaberg                    Aaberg                    
+Compass                   Aaberg                    Aaberg                    Aaberg                    
+Bottle                    Aaberg                    Aaberg                    Aaberg                    
+Fruit                     Aaberg                    Aaberg                    Aaberg                    
+Typewriter                Aaberg                    Aaberg                    Aaberg                    
+Bathtub                   Aaberg                    Aaberg                    Aaberg                    
+------------------------------------------------------------------------------------------------------------------
+
+[GAME BOARD]
+P , H , R , O , G , U , I , T , A , R , 
+T , I , U , R , F , I , L , G , R , X , 
+C , S , S , A , P , M , O , C , N , L , 
+H , J , K , X , Q , T , A , J , F , L , 
+U , L , K , R , A , D , A , R , O , I , 
+R , N , G , M , S , P , E , O , R , Y , 
+C , X , Q , T , Z , V , P , D , S , X , 
+H , V , A , B , O , T , T , L , E , T , 
+I , R , H , B , U , T , H , T , A , B , 
+R , E , T , I , R , W , E , P , Y , T , 
+
+
+[SOLUTION BOARD]
+P , H , R , O , G* , U* , I* , T* , A* , R* , 
+T* , I* , U* , R* , F* , I , L , G , R , X , 
+C* , S* , S* , A* , P* , M* , O* , C* , N , L , 
+H* , J , K , X , Q , T , A , J , F , L* , 
+U* , L , K , R* , A* , D* , A* , R* , O* , I , 
+R* , N , G , M , S* , P , E , O* , R , Y , 
+C* , X , Q , T* , Z , V , P* , D , S , X , 
+H* , V , A* , B* , O* , T* , T* , L* , E* , T , 
+I , R* , H , B* , U* , T* , H* , T* , A* , B* , 
+R* , E* , T* , I* , R* , W* , E* , P* , Y* , T* , 
+
+
+[ 5 ]  No Theme: puzzle 0 
+
+E_inE                     E_in_L                    L_in_L                    L_in_E                    
+------------------------------------------------------------------------------------------------------------------
+Cappuccino                Aaberg                    Aaberg                    Aaberg                    
+Mist                      Aaberg                    Aaberg                    Aaberg                    
+Worm                      Aaberg                    Aaberg                    Aaberg                    
+Sportscar                 Aaberg                    Aaberg                    Aaberg                    
+Kaleidoscope              Aaberg                    Aaberg                    Aaberg                    
+Plane                     Aaberg                    Aaberg                    Aaberg                    
+Shower                    Aaberg                    Aaberg                    Aaberg                    
+Swimming                  Aaberg                    Aaberg                    Aaberg                    
+Foot                      Aaberg                    Aaberg                    Aaberg                    
+Sunglasses                Aaberg                    Aaberg                    Aaberg                    
+------------------------------------------------------------------------------------------------------------------
+
+No Puzzle to solve.
+
+[ 6 ]  No Theme: puzzle 0 
+
+E_inE                     E_in_L                    L_in_L                    L_in_E                    
+------------------------------------------------------------------------------------------------------------------
+Chocolates                Aaberg                    Aaberg                    Aaberg                    
+Wheelchair                Aaberg                    Aaberg                    Aaberg                    
+Typewriter                Aaberg                    Aaberg                    Aaberg                    
+Toilet                    Aaberg                    Aaberg                    Aaberg                    
+Treadmill                 Aaberg                    Aaberg                    Aaberg                    
+Tunnel                    Aaberg                    Aaberg                    Aaberg                    
+Chisel                    Aaberg                    Aaberg                    Aaberg                    
+Dung                      Aaberg                    Aaberg                    Aaberg                    
+Bathtub                   Aaberg                    Aaberg                    Aaberg                    
+Coffeeshop                Aaberg                    Aaberg                    Aaberg                    
+------------------------------------------------------------------------------------------------------------------
+
+[GAME BOARD]
+L , L , I , M , D , A , E , R , T , X , 
+R , E , T , I , R , W , E , P , Y , T , 
+R , I , A , H , C , L , E , E , H , W , 
+P , O , H , S , E , E , F , F , O , C , 
+L , E , N , N , U , T , U , T , L , F , 
+B , U , T , H , T , A , B , E , E , H , 
+B , H , M , U , Y , B , G , L , S , Q , 
+M , G , N , U , D , D , G , I , I , C , 
+S , E , T , A , L , O , C , O , H , C , 
+R , S , E , G , G , J , V , T , C , P , 
+
+
+[SOLUTION BOARD]
+L* , L* , I* , M* , D* , A* , E* , R* , T* , X , 
+R* , E* , T* , I* , R* , W* , E* , P* , Y* , T* , 
+R* , I* , A* , H* , C* , L* , E* , E* , H* , W* , 
+P* , O* , H* , S* , E* , E* , F* , F* , O* , C* , 
+L* , E* , N* , N* , U* , T* , U , T* , L* , F , 
+B* , U* , T* , H* , T* , A* , B* , E* , E* , H , 
+B , H , M , U , Y , B , G , L* , S* , Q , 
+M , G* , N* , U* , D* , D , G , I* , I* , C , 
+S* , E* , T* , A* , L* , O* , C* , O* , H* , C* , 
+R , S , E , G , G , J , V , T* , C* , P , 
+
+
+[ 7 ]  No Theme: puzzle 0 
+
+E_inE                     E_in_L                    L_in_L                    L_in_E                    
+------------------------------------------------------------------------------------------------------------------
+Stomach                   Aaberg                    Aaberg                    Aaberg                    
+Milk                      Aaberg                    Aaberg                    Aaberg                    
+Festival                  Aaberg                    Aaberg                    Aaberg                    
+Floodlight                Aaberg                    Aaberg                    Aaberg                    
+Grapes                    Aaberg                    Aaberg                    Aaberg                    
+Rock                      Aaberg                    Aaberg                    Aaberg                    
+Spiral                    Aaberg                    Aaberg                    Aaberg                    
+Fan                       Aaberg                    Aaberg                    Aaberg                    
+Leg                       Aaberg                    Aaberg                    Aaberg                    
+Rifle                     Aaberg                    Aaberg                    Aaberg                    
+------------------------------------------------------------------------------------------------------------------
+
+[GAME BOARD]
+O , T , G , E , Q , Y , Q , T , H , F , 
+R , H , D , H , L , S , V , C , E , Y , 
+X , G , M , I , G , Y , A , S , L , X , 
+L , I , I , O , R , M , T , G , F , O , 
+G , L , L , Y , O , I , N , R , I , V , 
+E , D , K , T , V , F , A , A , R , Y , 
+L , O , S , A , G , K , F , P , I , M , 
+W , O , L , Y , C , L , H , E , Z , T , 
+R , L , F , O , K , A , D , S , A , I , 
+V , F , R , L , S , P , I , R , A , L , 
+
+
+[SOLUTION BOARD]
+O , T* , G , E , Q , Y , Q , T , H* , F* , 
+R , H* , D , H , L , S , V , C* , E* , Y , 
+X , G* , M* , I , G , Y , A* , S* , L* , X , 
+L , I* , I* , O , R , M* , T* , G* , F* , O , 
+G* , L* , L* , Y , O* , I* , N* , R* , I* , V , 
+E* , D* , K* , T* , V* , F , A* , A* , R* , Y , 
+L* , O* , S* , A* , G , K* , F* , P* , I , M , 
+W , O* , L* , Y , C* , L , H , E* , Z , T , 
+R , L* , F , O* , K , A , D , S* , A , I , 
+V , F* , R* , L , S* , P* , I* , R* , A* , L* , 
+
+
+[ 8 ]  No Theme: puzzle 0 * 
+
+E_inE                     E_in_L                    L_in_L                    L_in_E                    
+------------------------------------------------------------------------------------------------------------------
+Telescope                 Aaberg                    Aaberg                    Aaberg                    
+Diamond                   Aaberg                    Aaberg                    Aaberg                    
+Family                    Aaberg                    Aaberg                    Aaberg                    
+Milkshake                 Aaberg                    Aaberg                    Aaberg                    
+Meteor                    Aaberg                    Aaberg                    Aaberg                    
+Spectrum                  Aaberg                    Aaberg                    Aaberg                    
+Needle                    Aaberg                    Aaberg                    Aaberg                    
+Spot                      Aaberg                    Aaberg                    Aaberg                    
+Nail                      Aaberg                    Aaberg                    Aaberg                    
+Ring                      Aaberg                    Aaberg                    Aaberg                    
+------------------------------------------------------------------------------------------------------------------
+
+[GAME BOARD]
+M , G , T , P , X , B , T , N , P , F , 
+E , J , E , L , D , E , E , N , X , M , 
+T , I , L , F , A , M , I , L , Y , I , 
+E , D , E , H , G , K , M , Q , D , L , 
+O , F , S , J , Q , R , L , L , N , K , 
+R , R , C , T , X , I , P , F , O , S , 
+Q , V , O , T , A , N , T , Q , M , H , 
+K , P , P , N , T , G , I , M , A , A , 
+S , L , E , X , E , U , A , V , I , K , 
+M , U , R , T , C , E , P , S , D , E , 
+
+
+[SOLUTION BOARD]
+M* , G , T* , P , X , B , T , N , P , F , 
+E* , J , E* , L* , D* , E* , E* , N* , X , M* , 
+T* , I , L* , F* , A* , M* , I* , L* , Y* , I* , 
+E* , D , E* , H , G , K , M , Q , D* , L* , 
+O* , F , S* , J , Q , R* , L* , L , N* , K* , 
+R* , R , C* , T* , X , I* , P , F , O* , S* , 
+Q , V , O* , T , A* , N* , T , Q , M* , H* , 
+K , P* , P* , N* , T , G* , I , M , A* , A* , 
+S* , L , E* , X , E , U , A , V , I* , K* , 
+M* , U* , R* , T* , C* , E* , P* , S* , D* , E* , 
+
+
